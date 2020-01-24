@@ -162,6 +162,11 @@ export default class Home extends React.Component {
                       />
                       <p style={{ fontSize: 15, fontWeight: "bold" }}>
                         {dataPortf.title}
+                        
+                      </p>
+                      <p style={{ fontSize: 15, fontWeight: "bold" }}>
+                        {dataPortf.description}
+                        
                       </p>
                     </div>
                   ))}
