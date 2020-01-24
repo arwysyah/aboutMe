@@ -41,7 +41,6 @@ $ npm start
 ##  Dependencies & Stacks
 
 - ReactJS
-- Axios
 - Ant Design
 
 

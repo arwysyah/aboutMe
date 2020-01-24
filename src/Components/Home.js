@@ -27,7 +27,7 @@ export default class Home extends React.Component {
   componentDidMount() {
     setTimeout(() => {
       this.setState({ isLoading: false });
-    }, 2000);
+    }, 3000);
   }
 
   render() {
